@@ -1,0 +1,18 @@
+{
+    "name": "DungeonedNoise",
+    "register_slot": 0,
+    "binding_slot": 0,
+    "type": "texture2D",
+    "precision": "lowp",
+    "access": "readonly",
+    "texture_format": "",
+    "default_texture": "",
+    "unordered_access": false,
+    "slot_count": 1,
+    "texture_path": "textures/environment/dungeoned_noise",
+    "unknown": 0,
+    "sampler_state": {
+        "filter": "Bilinear",
+        "wrapping": "Repeat"
+    }
+}

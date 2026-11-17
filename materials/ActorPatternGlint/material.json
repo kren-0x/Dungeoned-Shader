@@ -1,0 +1,6 @@
+{
+    "uniform_overrides": {
+        "TimeOfDay": "BUILTIN_MinecraftTimeOfDay",
+        "CameraPosition": "BUILTIN_MinecraftCameraPosition"
+    }
+}

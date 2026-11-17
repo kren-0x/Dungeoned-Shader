@@ -1,0 +1,10 @@
+#ifndef LIBRARIES_LUTS_GLSL
+#define LIBRARIES_LUTS_GLSL
+
+#if BGFX_SHADER_TYPE_FRAGMENT
+SAMPLER2D_AUTOREG(s_DungeonedLUT);
+SAMPLER2D_AUTOREG(s_DungeonedNoise);
+SAMPLER2D_AUTOREG(s_DungeonedTonemap);
+#endif
+
+#endif
